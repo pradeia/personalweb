@@ -170,9 +170,8 @@ a {
         justify-content: start;
     }
     .thumbnail .item .content{
-        text-align: center;
-        position: inherit;
-        justify-content: center;
+        position: absolute;
+        inset: auto 10px 10px 10px;
     }
     .slider .list .item .content h2{
         font-size: 40px;
