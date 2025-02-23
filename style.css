@@ -172,6 +172,7 @@ a {
     .thumbnail .item .content{
         text-align: center;
         position: inherit;
+        justify-content: center;
     }
     .slider .list .item .content h2{
         font-size: 40px;
