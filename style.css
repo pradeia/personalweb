@@ -169,8 +169,11 @@ a {
     .thumbnail{
         justify-content: start;
     }
+    .thumbnail .item .content{
+        text-align: center;
+    }
     .slider .list .item .content h2{
-        font-size: 60px;
+        font-size: 40px;
     }
     .arrows{
         top: 10%;
