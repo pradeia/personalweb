@@ -131,7 +131,7 @@ a {
 .thumbnail{
     position: absolute;
     bottom: 50px;
-    top: 90%;
+    top: 95%;
     z-index: 11;
     display: flex;
     gap: 10px;
